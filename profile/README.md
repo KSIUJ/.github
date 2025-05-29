@@ -1,5 +1,6 @@
+![KSI logo in polish](./ksi-logo-extended-dark-background.png)
+
 # Computer Science Students' Association of the Jagiellonian University
-_aka. **Koło Studentów Informatyki Uniwersytetu Jagiellońskiego**_
 
 KSI (ξ, Xi) - the fourteenth letter of Greek alphabet (which you will learn at introduction to set theory)
 has gained special meaning on the Jagiellonian University in Kraków.
